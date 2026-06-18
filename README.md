@@ -1,4 +1,4 @@
-<div align="center"> <img src="./git_main.png" width="700"> <br> <sub><b>Steampunk Octocat | Research Acceleration</b></sub> </div>
+<div align="center"> <img src="./git_main.png" width="700"> <br> <sub><b> UJ Search Research</b></sub> </div>
 
 <!--
 **UJSR/UJSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
